@@ -1,2 +1,7 @@
 # hello-world
-Just Another repository
+
+Hello fellow Human beings,
+
+Love Technology. It's the best. 
+
+Advertise. Your Name here
